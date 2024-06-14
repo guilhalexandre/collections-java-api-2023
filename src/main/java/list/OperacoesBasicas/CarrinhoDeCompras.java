@@ -67,6 +67,8 @@ public class CarrinhoDeCompras {
     carrinhoDeCompras.adicionarItem("Lápis", 2d, 3);
     carrinhoDeCompras.adicionarItem("Caderno", 35d, 1);
     carrinhoDeCompras.adicionarItem("Borracha", 2d, 2);
+    carrinhoDeCompras.adicionarItem("Estojo", 20d, 1);
+    carrinhoDeCompras.adicionarItem("Bolsa", 45d, 1);
 
     // Exibindo os itens no carrinho
     carrinhoDeCompras.exibirItens();
